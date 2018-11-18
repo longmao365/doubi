@@ -7,7 +7,7 @@ export PATH
 #	Description: ADbyby
 #	Version: 1.0.1
 #	Author: Toyo
-#	Blog: https://doub.io/adbyby-jc2/
+#	Blog: https://doub.io/adbyby-jc2/ 
 #=================================================
 
 file="/usr/local/adbyby"
