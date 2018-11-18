@@ -219,4 +219,3 @@ case "$num" in
 	echo "请输入正确数字 [1-8]"
 	;;
 esac
-
